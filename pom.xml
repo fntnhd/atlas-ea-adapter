@@ -3,7 +3,7 @@
     <name>Atlas Adapter for Enterprise Architect</name>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.atlas</groupId>
+    <groupId>org.atlas.adapter</groupId>
     <artifactId>atlas-ea-adapter</artifactId>
     <packaging>jar</packaging>
     <version>2.7-SNAPSHOT</version>
